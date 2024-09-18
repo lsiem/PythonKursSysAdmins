@@ -27,7 +27,7 @@ Tauche ein in die Welt von Python und verbessere deine Fähigkeiten als Systemad
 
 ### 🌱 Grundlagen
 
-#### 📊 Kapitel 1: Variablen
+####         📊 Kapitel 1: Variablen
 
 - [x] 01_strings.ipynb 🔤
 - [x] 02_numbers.ipynb 🔢
