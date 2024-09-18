@@ -81,7 +81,9 @@ Lass dich überraschen! Neue spannende Themen sind in Planung...
 
    ![Binder](https://mybinder.org/badge_logo.svg)
 
+
 2. Wählen Sie ein Notebook aus dem Verzeichnis.
+
 3. Führen Sie die Zellen aus und experimentieren Sie mit dem Code!
 
 ---
