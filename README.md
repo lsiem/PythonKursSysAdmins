@@ -1,9 +1,5 @@
 # 🐍 Python Kurs für Systemadministratoren
 
-/
-
-![](https://holocron.so/uploads/2e5074cf-python-icon.png)
-
 ## 🎉 Willkommen zum Python-Kurs für Systemadministratoren!
 
 Dieses Repository enthält interaktive Jupyter-Notebooks, die dir die Konzepte der Python-Programmierung näherbringen - speziell zugeschnitten für Systemadministratoren! 🖥️
