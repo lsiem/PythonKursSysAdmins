@@ -1,9 +1,5 @@
 # 🐍 Python Kurs für Systemadministratoren
 
-![Python](https://img.shields.io/badge/python-3.x-blue.svg)
-
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-green.svg)
-
 ## 🎉 Willkommen zum Python-Kurs für Systemadministratoren!
 
 Dieses Repository enthält interaktive Jupyter-Notebooks, die dir die Konzepte der Python-Programmierung näherbringen - speziell zugeschnitten für Systemadministratoren! 🖥️
